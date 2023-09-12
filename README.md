@@ -46,9 +46,10 @@
     ```
 
 * Refer the code for details
-    schema.js - contains the schema definition of type Query and Mutation and input
-    index.js  - contains the implementation of resolvers based on the typeDef defined in the schema
-    _db.js    - contains the sample data to play around
+
+    * schema.js - contains the schema definition of type Query and Mutation and input
+    * index.js  - contains the implementation of resolvers based on the typeDef defined in the schema
+    * _db.js    - contains the sample data to play around
 
 * Start the application using the following command
     ```bash
